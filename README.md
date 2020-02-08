@@ -5,6 +5,7 @@ Projects I participated in my Course.
 
 ## Disciplines
 Initials | Name (PT) | Name (EN)
+--- | ------ | ------
 ASA | Análise e Síntese de Algoritmos | Analysis and Synthesis of Algorithms
 IPM | Interfaces Pessoa-Máquina | Human-Computer Interaction
 PO  | Programação de Objetos | Object-Oriented Programming
