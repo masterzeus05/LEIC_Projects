@@ -1,7 +1,7 @@
 # LEIC_Projects
 Projects I participated in my Course.
 
-*Folders are each discipline, with the year in the beggining.
+Folders are each discipline, with the year in the beggining.
 
 ## Disciplines
 Initials | Name (PT) | Name (EN)
